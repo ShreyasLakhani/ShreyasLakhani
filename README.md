@@ -71,8 +71,7 @@ Movie platform with TMDB API integration, Next.js 14 App Router, Prisma ORM, and
 
 ## 📊 GitHub Stats
 
-![Shreyas's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ShreyasLakhani&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-
+[![Shreys's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShreyasLakhani)]
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ShreyasLakhani&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
